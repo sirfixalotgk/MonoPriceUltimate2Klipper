@@ -1,0 +1,9 @@
+[Variables]
+home_verify_fail = 0
+last_gcode_offset_z = -0.202
+pos_trig = 1
+probe_moe = 0.0
+probe_sub = 0
+probe_z_off = 0.0
+z_trig = 1
+
